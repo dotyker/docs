@@ -86,7 +86,7 @@ const config: Config = {
         },
         { to: "/blog", label: "Blog", position: "right" },
         {
-          href: "https://github.com/facebook/docusaurus",
+          href: "https://github.com/dotyker/dotyker",
           label: "GitHub",
           position: "right",
         },
@@ -108,16 +108,28 @@ const config: Config = {
           title: "Community",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
               label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              href: "https://discord.gg/esfGWQURcR",
             },
             {
-              label: "X",
-              href: "https://x.com/docusaurus",
+              label: "Reddit",
+              href: "https://www.reddit.com/r/dotyker/",
+            },
+            {
+              label: "Bluesky",
+              href: "https://bsky.app/profile/dotyker.org",
+            },
+            {
+              label: "Mastodon",
+              href: "https://mastodon.social/@dotyker",
+            },
+            {
+              label: "Youtube",
+              href: "https://www.youtube.com/@DotykerOrg",
+            },
+            {
+              label: "Instagram",
+              href: "https://www.instagram.com/dotyker/",
             },
           ],
         },
@@ -130,7 +142,7 @@ const config: Config = {
             },
             {
               label: "GitHub",
-              href: "https://github.com/facebook/docusaurus",
+              href: "https://github.com/dotyker/dotyker",
             },
           ],
         },
