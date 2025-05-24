@@ -1,0 +1,9 @@
+dotyker:
+  label: Dotyker
+  permalink: /dotyker
+  description: Dotyker platform
+
+dotyker-cms:
+  label: Dotyker CMS
+  permalink: /dotyker-cms
+  description: Management system for Dotyker

@@ -1,0 +1,52 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.heroBanner {
+  padding: 6rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  font-family: var(--dotyker-font);
+}
+
+@media screen and (max-width: 996px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heroTitle {
+  font-family: "Audiowide", monospace !important;
+  font-size: calc(var(--ifm-code-font-size) * 8) !important;
+}
+
+@media screen and (max-width: 996px) {
+  .heroTitle {
+    font-size: calc(var(--ifm-code-font-size) * 5.5) !important;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .heroTitle {
+    font-size: calc(var(--ifm-code-font-size) * 3.3) !important;
+    white-space: nowrap;
+  }
+}
+
+.heroSubtitle {
+  font-family: "Audiowide", monospace !important;
+  font-size: calc(var(--ifm-code-font-size) * 2);
+}
+
+.heroDescription {
+  font-size: calc(var(--ifm-code-font-size) * 1.2);
+  margin-top: 1rem;
+}
