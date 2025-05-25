@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Use cases
+# Příklady použití
 
 We want Dotyker platform to be flexible and meet all your digital screen needs. Below you will find some of the known and tested use cases. You can certainly use it for other use cases as well, just be creative! If you have other needs, let us know and together we can make it happen!
 

@@ -1,0 +1,54 @@
+{
+  "link.title.Docs": {
+    "message": "Dokumenty",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Komunita",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "Více",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Documentation": {
+    "message": "Dokumentace",
+    "description": "The label of footer link with label=Documentation linking to /docs/getting-started"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/esfGWQURcR"
+  },
+  "link.item.label.Reddit": {
+    "message": "Reddit",
+    "description": "The label of footer link with label=Reddit linking to https://www.reddit.com/r/dotyker/"
+  },
+  "link.item.label.Bluesky": {
+    "message": "Bluesky",
+    "description": "The label of footer link with label=Bluesky linking to https://bsky.app/profile/dotyker.org"
+  },
+  "link.item.label.Mastodon": {
+    "message": "Mastodon",
+    "description": "The label of footer link with label=Mastodon linking to https://mastodon.social/@dotyker"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/@DotykerOrg"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/dotyker/"
+  },
+  "link.item.label.Blog": {
+    "message": "Blog",
+    "description": "The label of footer link with label=Blog linking to /blog"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/dotyker/dotyker"
+  },
+  "copyright": {
+    "message": "Copyright © 2025 Dotyker",
+    "description": "The footer copyright"
+  }
+}

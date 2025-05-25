@@ -93,6 +93,10 @@ const config: Config = {
           label: "GitHub",
           position: "right",
         },
+        {
+          type: "localeDropdown",
+          position: "right",
+        },
       ],
     },
     footer: {
@@ -103,7 +107,7 @@ const config: Config = {
           items: [
             {
               label: "Documentation",
-              to: "/docs/intro",
+              to: "/docs/getting-started",
             },
           ],
         },

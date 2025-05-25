@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Overview": {
+    "message": "Přehled",
+    "description": "The label for category Overview in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Overview.link.generated-index.description": {
+    "message": "Přehled a úvod do dokumentace",
+    "description": "The generated-index page description for category Overview in sidebar tutorialSidebar"
+  }
+}
