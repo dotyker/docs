@@ -9,21 +9,15 @@ Introducing Dotyker, the digital screen system everyone needs, but this time it 
 
 Find out what you can expect from this project.
 
+Our early goals will be creating some real-world examples, replacing our existing digital screen solutions and creating blogs and documentation about it. Then sharing on social media and getting your feedback! Please help us make this project useful for community!
+
 <!-- truncate -->
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Get in touch with us. Follow us and share your ideas!
 
-Regular blog authors can be added to `authors.yml`.
-
-The blog post date can be extracted from filenames, such as:
-
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
-
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+- [Discord](https://discord.gg/esfGWQURcR)
+- [Reddit](https://www.reddit.com/r/dotyker/)
+- [Bluesky](https://bsky.app/profile/dotyker.org)
+- [Mastodon](https://mastodon.social/@dotyker)
+- [Youtube](https://www.youtube.com/@DotykerOrg)
+- [Instagram](https://www.instagram.com/dotyker/)
